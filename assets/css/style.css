@@ -1,1 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  font-family: "Raleway", sans-serif;
+  color: white;
+  background-color: black;
+}
+
+#carouselAutoplaying img {
+  max-height: 80vh;
+  object-fit: cover;
+}
+
+main {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+h2 {
+  text-align: center;
+}
+i {
+  background-color: #0dcaf0;
+}
