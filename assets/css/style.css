@@ -12,8 +12,9 @@ body {
   padding-right: 12%;
 }
 #carouselAutoplaying img {
-  max-height: 80vh;
+  max-height: 85vh;
   object-fit: cover;
+  object-position: center top;
 }
 /* Main */
 main {
