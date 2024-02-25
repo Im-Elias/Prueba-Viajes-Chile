@@ -7,24 +7,35 @@ body {
   background-color: black;
 }
 /* Header */
+.navbar {
+  padding-left: 12%;
+  padding-right: 12%;
+}
 #carouselAutoplaying img {
   max-height: 80vh;
   object-fit: cover;
 }
 /* Main */
 main {
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 12%;
+  padding-right: 12%;
 }
 h2 {
   text-align: center;
+  font-size: 1.5rem;
 }
 /* Quiénes somos */
 i {
   background-color: #0dcaf0;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 /* Destacados */
-.card-img-top {
+/* .card-img-top {
   height: 100%;
-  width: auto;
+  width: auto; 
+}*/
+/* Cntacto */
+#contacto .btn {
+  color: white;
 }
