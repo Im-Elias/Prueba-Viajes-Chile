@@ -1,3 +1,4 @@
+/* Globales */
 @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 
 body {
@@ -5,12 +6,12 @@ body {
   color: white;
   background-color: black;
 }
-
+/* Header */
 #carouselAutoplaying img {
   max-height: 80vh;
   object-fit: cover;
 }
-
+/* Main */
 main {
   padding-left: 10%;
   padding-right: 10%;
@@ -18,9 +19,11 @@ main {
 h2 {
   text-align: center;
 }
+/* Quiénes somos */
 i {
   background-color: #0dcaf0;
 }
+/* Destacados */
 .card-img-top {
   height: 100%;
   width: auto;
